@@ -1,0 +1,3 @@
+C:/Users/dell/CLionProjects/Assuit_sheet4_string/cmake-build-debug/CMakeFiles/Assuit_sheet4_string.dir
+C:/Users/dell/CLionProjects/Assuit_sheet4_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/CLionProjects/Assuit_sheet4_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir

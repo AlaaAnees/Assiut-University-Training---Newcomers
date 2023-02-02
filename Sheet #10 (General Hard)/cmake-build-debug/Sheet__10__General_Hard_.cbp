@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Sheet__10__General_Hard_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sheet__10__General_Hard_">
+				<Option output="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Sheet__10__General_Hard_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sheet__10__General_Hard_"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sheet__10__General_Hard_/fast">
+				<Option output="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Sheet__10__General_Hard_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sheet__10__General_Hard_/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/A. Chewbaсca and Number.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/A. Palindromes Replace.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/C. Koko And The Transformation.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/D. Hussien and Strings.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/E. Construct The Sum.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/F. Marks.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/G. Smallest Product.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/I. Coins.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/J. Help Vasilisa the Wise 2.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/K. Snacktower.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/L. Two Squares.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/M. Postcard.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/N. Katryoshka.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/O. Help Koko.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/P. No Time for Dragons.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/Q. Bulbs.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/R. Cut Ribbon.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/S. DZY Loves Chessboard.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/T. Easter Eggs.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/U. From S To T.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/V. New Password.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/W. Hussien and Arrays 2.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/X. Strange Addition.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/Y. Spiral.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/Z. Triangle.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/main.cpp">
+			<Option target="Sheet__10__General_Hard_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

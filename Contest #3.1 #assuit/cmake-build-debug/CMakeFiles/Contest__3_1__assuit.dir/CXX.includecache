@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/CLionProjects/Contest #3.1 #assuit/C. Choose Elements.cpp
+bits/stdc++.h
+-
+unordered_map
+-
+
+C:/Users/dell/CLionProjects/Contest #3.1 #assuit/D. Counting Elements.cpp
+unordered_map
+-
+unordered_map
+-
+

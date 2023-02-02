@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Sheet__6__Math___Geometry__Assiut"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sheet__6__Math___Geometry__Assiut">
+				<Option output="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Sheet__6__Math___Geometry__Assiut.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sheet__6__Math___Geometry__Assiut"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sheet__6__Math___Geometry__Assiut/fast">
+				<Option output="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Sheet__6__Math___Geometry__Assiut.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sheet__6__Math___Geometry__Assiut/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/@suez Z. Digits Sum.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/A. Power Of Two.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/B. Prime checking.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/C. Sum of Range.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/D. Xor.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/E. Maximum Distinct Numbers.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/F. Multiplication of Matrices.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/G. Summation of its divisors.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/H. GCD.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/I. Divisability.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/J. Prime Factors.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/K. Combination and Permutation.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/L. Pascal Triangle.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/M. Divisible.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/N. Convert to Base.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/O. Big Add and Multiply.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/P. Factorial Digits.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/Q. Product.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/R. Distance points.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/S. Is Triangle.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/T. Circle Task.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/U. Straight Line.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/V. Two Lines.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/W. Circles.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/X. Rectangle.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/Y. Common Area.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/Z. Geometry Test.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/main.cpp">
+			<Option target="Sheet__6__Math___Geometry__Assiut"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #6 (Math - Geometry)-Assiut/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assuit_Sheet__3__Arrays_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assuit_Sheet__3__Arrays_">
+				<Option output="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Assuit_Sheet__3__Arrays_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assuit_Sheet__3__Arrays_"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assuit_Sheet__3__Arrays_/fast">
+				<Option output="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Assuit_Sheet__3__Arrays_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assuit_Sheet__3__Arrays_/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/A. Summation.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/B. Searching.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/C. Replacement.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/D. Positions in array.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/E. Lowest Number.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/F. Reversing.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/G. Palindrome Array.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/H. Sorting.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/I. Smallest Pair.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/J. Lucky Array.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/K. Sum Digits.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/L. Max Subarray.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/M. Replace MinMax.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/N. Check Code.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/O. Fibonacci.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/P. Minimize Number.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/Q. Count Subarrays.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/R. Permutation with arrays.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/S. Search In Matrix.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/T. Matrix.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/U. Is B a subsequence of A .cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/V. Frequency Array.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/W. Mirror Array.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/X. 8 Neighbors.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/Y. Range sum query.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/Z. Binary Search.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/main.cpp">
+			<Option target="Assuit_Sheet__3__Arrays_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assuit_Sheet #3 (Arrays)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

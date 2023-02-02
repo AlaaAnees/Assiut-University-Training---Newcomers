@@ -1,0 +1,3 @@
+C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/CMakeFiles/Sheet__10__General_Hard_.dir
+C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/CLionProjects/Sheet #10 (General Hard)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

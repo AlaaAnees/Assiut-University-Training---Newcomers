@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assiut_Sheet__2__Loops_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assiut_Sheet__2__Loops_">
+				<Option output="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Assiut_Sheet__2__Loops_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assiut_Sheet__2__Loops_"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assiut_Sheet__2__Loops_/fast">
+				<Option output="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Assiut_Sheet__2__Loops_.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assiut_Sheet__2__Loops_/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/A. 1 to N.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/B. Even Numbers.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/C. Even, Odd, Positive and Negative.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/D. Fixed Password.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/E. Max.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/F. Multiplication table.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/G. Factorial.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/H. One Prime again.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/H. One Prime.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/I. Palindrome.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/J. Primes from 1 to n.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/K. Divisors.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/L. GCD.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/M. Lucky Numbers.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/N. Numbers Histogram.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/O. Pyramid.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/P. Shape1.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/Q. Digits.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/R. Sequence of Numbers and Sum.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/S. Sum of Consecutive Odd Numbers.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/T. Shape2.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/U. Some Sums.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/V. PUM .cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/W. Shape3.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/X. Convert To Decimal 2.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/Y. Easy Fibonacci.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/Z. Three Numbers.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/main.cpp">
+			<Option target="Assiut_Sheet__2__Loops_"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

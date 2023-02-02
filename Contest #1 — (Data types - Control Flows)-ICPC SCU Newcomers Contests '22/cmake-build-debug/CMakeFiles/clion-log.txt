@@ -1,0 +1,18 @@
+C:\Users\dell\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\dell\CLionProjects\Contest #1 — (Data types - Control Flows)-ICPC SCU Newcomers Contests '22"
+-- Configuring done
+CMake Warning in CMakeLists.txt:
+  The object file directory
+
+    C:/Users/dell/CLionProjects/Contest #1 â€” (Data types - Control Flows)-ICPC SCU Newcomers Contests '22/cmake-build-debug/CMakeFiles/Contest__1___Data_types___Control_Flows__ICPC_SCU_Newcomers_Contests__22.dir/
+
+  has 210 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    B._Crossover_and_Straight_through.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Generating done
+-- Build files have been written to: C:/Users/dell/CLionProjects/Contest #1 â€” (Data types - Control Flows)-ICPC SCU Newcomers Contests '22/cmake-build-debug

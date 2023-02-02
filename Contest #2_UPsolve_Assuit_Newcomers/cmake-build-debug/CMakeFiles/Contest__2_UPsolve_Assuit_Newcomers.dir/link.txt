@@ -1,0 +1,3 @@
+C:\Users\dell\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Contest__2_UPsolve_Assuit_Newcomers.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Contest__2_UPsolve_Assuit_Newcomers.dir/objects.a @CMakeFiles\Contest__2_UPsolve_Assuit_Newcomers.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Contest__2_UPsolve_Assuit_Newcomers.dir/objects.a -Wl,--no-whole-archive -o Contest__2_UPsolve_Assuit_Newcomers.exe -Wl,--out-implib,libContest__2_UPsolve_Assuit_Newcomers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Contest__2_UPsolve_Assuit_Newcomers.dir\linklibs.rsp

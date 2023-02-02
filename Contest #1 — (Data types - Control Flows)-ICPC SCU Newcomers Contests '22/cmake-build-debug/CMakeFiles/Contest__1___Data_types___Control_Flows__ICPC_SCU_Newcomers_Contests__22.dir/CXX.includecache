@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/CLionProjects/Contest #1 — (Data types - Control Flows)-ICPC SCU Newcomers Contests '22/B. Card Game.cpp
+bits/stdc++.h
+-
+unordered_map
+-
+
+C:/Users/dell/CLionProjects/Contest #1 — (Data types - Control Flows)-ICPC SCU Newcomers Contests '22/E. Digits palindromes.cpp
+bits/stdc++.h
+-
+unordered_map
+-
+bits/stdc++.h
+-
+unordered_map
+-
+

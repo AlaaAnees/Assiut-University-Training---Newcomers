@@ -1,0 +1,3 @@
+C:/Users/dell/CLionProjects/rest_of_Sheet #4 (Strings)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/CLionProjects/rest_of_Sheet #4 (Strings)/cmake-build-debug/CMakeFiles/rest_of_Sheet__4__Strings_.dir
+C:/Users/dell/CLionProjects/rest_of_Sheet #4 (Strings)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/X. Convert To Decimal 2.cpp
+bits/stdc++.h
+-
+bits/stdc++.h
+-
+
+C:/Users/dell/CLionProjects/Assiut_Sheet #2 (Loops)/Z. Three Numbers.cpp
+bits/stdc++.h
+-
+

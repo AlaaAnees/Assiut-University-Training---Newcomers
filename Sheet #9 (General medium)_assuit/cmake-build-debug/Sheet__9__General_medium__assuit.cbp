@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Sheet__9__General_medium__assuit"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sheet__9__General_medium__assuit">
+				<Option output="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Sheet__9__General_medium__assuit.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sheet__9__General_medium__assuit"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sheet__9__General_medium__assuit/fast">
+				<Option output="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Sheet__9__General_medium__assuit.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sheet__9__General_medium__assuit/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/A. Polo the Penguin and Segments.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/D. Juicer.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/F. Puzzles.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/G. Twins.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/H. Launch of Collider.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/I. Lineland Mail.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/J. Shaass and Oskols.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/O. Yaroslav and Permutations.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/Q. Dreamoon and Stairs.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/R. Ksenia and Pan Scales.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/S. Mahmoud and a Triangle.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/T. Olesya and Rodion.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/U. T-primes.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/V. Balanced Rating Changes.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/W. Football.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/X. Mountain Scenery.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/main.cpp">
+			<Option target="Sheet__9__General_medium__assuit"/>
+		</Unit>
+		<Unit filename="C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

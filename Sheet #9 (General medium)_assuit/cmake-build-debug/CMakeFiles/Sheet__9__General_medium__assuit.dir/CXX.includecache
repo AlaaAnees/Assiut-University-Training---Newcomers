@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/G. Twins.cpp
+bits/stdc++.h
+-
+
+C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/H. Launch of Collider.cpp
+bits/stdc++.h
+-
+unordered_map
+-
+

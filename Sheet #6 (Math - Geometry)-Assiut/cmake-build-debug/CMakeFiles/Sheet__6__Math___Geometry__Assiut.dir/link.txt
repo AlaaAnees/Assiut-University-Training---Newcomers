@@ -1,0 +1,3 @@
+C:\Users\dell\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Sheet__6__Math___Geometry__Assiut.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Sheet__6__Math___Geometry__Assiut.dir/objects.a @CMakeFiles\Sheet__6__Math___Geometry__Assiut.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Sheet__6__Math___Geometry__Assiut.dir/objects.a -Wl,--no-whole-archive -o Sheet__6__Math___Geometry__Assiut.exe -Wl,--out-implib,libSheet__6__Math___Geometry__Assiut.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Sheet__6__Math___Geometry__Assiut.dir\linklibs.rsp

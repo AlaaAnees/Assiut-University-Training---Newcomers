@@ -1,0 +1,3 @@
+C:/Users/dell/CLionProjects/Contest #1 — (Data types - Control Flows)-ICPC SCU Newcomers Contests '22/cmake-build-debug/CMakeFiles/Contest__1___Data_types___Control_Flows__ICPC_SCU_Newcomers_Contests__22.dir
+C:/Users/dell/CLionProjects/Contest #1 — (Data types - Control Flows)-ICPC SCU Newcomers Contests '22/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/CLionProjects/Contest #1 — (Data types - Control Flows)-ICPC SCU Newcomers Contests '22/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/CMakeFiles/Sheet__9__General_medium__assuit.dir
+C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/CLionProjects/Sheet #9 (General medium)_assuit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

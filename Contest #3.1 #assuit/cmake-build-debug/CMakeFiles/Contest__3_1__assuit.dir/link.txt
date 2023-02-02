@@ -1,0 +1,3 @@
+C:\Users\dell\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\211.7142.21\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\Contest__3_1__assuit.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Contest__3_1__assuit.dir/objects.a @CMakeFiles\Contest__3_1__assuit.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Contest__3_1__assuit.dir/objects.a -Wl,--no-whole-archive -o Contest__3_1__assuit.exe -Wl,--out-implib,libContest__3_1__assuit.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Contest__3_1__assuit.dir\linklibs.rsp

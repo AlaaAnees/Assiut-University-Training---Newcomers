@@ -1,0 +1,3 @@
+C:/Users/dell/CLionProjects/Contest #2_UPsolve_Assuit_Newcomers/cmake-build-debug/CMakeFiles/Contest__2_UPsolve_Assuit_Newcomers.dir
+C:/Users/dell/CLionProjects/Contest #2_UPsolve_Assuit_Newcomers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dell/CLionProjects/Contest #2_UPsolve_Assuit_Newcomers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
